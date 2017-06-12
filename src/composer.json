@@ -1,0 +1,15 @@
+{
+    "name": "rustyrobotmedia/cloudapi",
+    "description": "CloudAPI Client Library",
+    "type": "library",
+    "require": {
+        "mashape/unirest-php": "^3.0"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Steven Pratt",
+            "email": "steven@rustyrobotmedia.com"
+        }
+    ]
+}
